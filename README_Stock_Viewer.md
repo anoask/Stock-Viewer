@@ -144,9 +144,7 @@ You may need the matching .NET Framework installed on your machine.
 - Add tests for recognizer logic
 - Add screenshots directly to the repo instead of external image links
 
-## Existing Screenshots
-
-These were included in the original repository README:
+## Screenshots
 
 - ![Screenshot 1](https://github.com/user-attachments/assets/65232737-da7d-4491-8c92-4b25d380aa47)
 - ![Screenshot 2](https://github.com/user-attachments/assets/ebd7e1e8-3ee9-4407-9b38-2962752e9c90)
